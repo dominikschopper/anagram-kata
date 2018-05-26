@@ -1,0 +1,16 @@
+{
+  "name": "anagrams-kata",
+  "version": "0.1.0",
+  "description": "the anagrams kata",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node bin/run-tests.js",
+    "start": "node src/app.js"
+  },
+  "author": "dev@dschopper.de",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-terminal-reporter": "^1.0.3"
+  }
+}
