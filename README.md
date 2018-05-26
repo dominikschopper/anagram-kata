@@ -23,14 +23,6 @@ stow, swot, tows, tows, twos, twos
 
 Make the programm take the wordfile as a commandline argument.
 
-If you get this working make the programm only output anagrams with more than 5 anagrammtic words.
-Make it so you can provide the minimum amount of anagrammatic words as another commandline argument, so
-it could be called like that.
+### additional output task
 
-```
-node ./app.js ../ressources/british-english-large 5
-```
-
-If you do this the second or third time or feel very confident, create tests.
-
-I provided an english dicitonary file in the [ressources directory](./ressources) with over 100_000 english words to read
+only output the anagrams with the three longest words that have at least one annagrammatic word
