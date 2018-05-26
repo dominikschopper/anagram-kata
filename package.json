@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "the anagrams kata",
   "main": "src/app.js",
+  "private": true,
   "scripts": {
     "test": "node bin/run-tests.js",
     "start": "node src/app.js"
