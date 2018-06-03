@@ -38,7 +38,7 @@
             "error",
             "never"
         ],
-        "class-methods-use-this": "error",
+        "class-methods-use-this": "warn",
         "comma-dangle": "error",
         "comma-spacing": [
             "error",
